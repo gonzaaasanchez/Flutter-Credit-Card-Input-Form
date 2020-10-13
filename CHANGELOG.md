@@ -50,3 +50,11 @@
 ## 2.0.1
 
 * fix readme
+
+## 2.0.2
+
+* update provider library
+
+## 2.0.3
+
+* If the card number is Amex, the CVC code will be 4 digits, otherwise it will be 3 digits.
